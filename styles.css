@@ -1,0 +1,58 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #E2725B;
+    text-align: center;
+    padding: 20px;
+}
+
+.header-txt {
+    font-family: "Small", Subscript, serif;
+    font-weight: bold;
+    margin: 0;
+    color: #5c715e;
+}
+
+main {
+    max-width: 1500px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+#about {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+#gallery {
+    margin-top: 20px;
+}
+
+.photo {
+    margin-bottom: 20px;
+}
+
+.photo img {
+    max-width: 100%;
+    border-radius: 5px;
+}
+
+.location {
+
+}
+
+footer {
+    text-align: center;
+    background-color: #f9f9f9;
+    padding: 10px;
+}
+
